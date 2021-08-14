@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rabee
-- 👀 I’m interested in FrontEnd Developing
-- 🌱 I’m currently learning gsap
+- 👀 I’m a Computer Engineer and FrontEnd Developer
 - 📫 How to reach me rabeealjaramani@yahoo.com
 
 <!---
